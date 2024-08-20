@@ -18,8 +18,8 @@ I'm a passionate developer with a strong background in Python, Node.js, Data Sci
 - **Backend Development**: RESTful APIs, Microservices, Database Management (SQL & NoSQL)
 
 ### Projects
-- **[Bot-webscraping & web app](http://5.183.8.150/login)**: Conifure a pc as a server to reproduce a bot which navigate in a page and download files. Use a non relational database to store data.
-- **[El Escritor](http://162.240.170.94:8080/)**: This project use non and relationa database. In backend express, websocket, JWT. In Front Quill and React.
+- **[Bot-webscraping & web app](http://5.183.8.150/login)**: Configured a PC as a server to run a bot that navigates a web page and downloads files. Utilized a non-relational database for data storage..
+- **[El Escritor](http://162.240.170.94:8080/)**: Implemented both relational and non-relational databases. The backend is built with Express.js, WebSocket, and JWT. The frontend is developed using Quill and React.
 
 
 ### Experience
